@@ -1,5 +1,5 @@
 <html>
-	<head>
+	 <head>
 		<title>Diario Note Multimedia</title>
 	</head>
 	<body>
@@ -9,7 +9,7 @@
 300px; height: 300px; " /></h3>
 
 		<p style="text-align: right; ">
-			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/drivers_de.shtml">deutsch</a> | <a href="../drivers_en.shtml">english</a> | <a href="../es/drivers_es.shtml">español</a> | <a href="../fr/drivers_fr.shtml">français</a> | italiano | <a href="../pt/drivers_pt.shtml">português</a></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
+			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/drivers_de.shtml">deutsch</a> | <a href="../drivers_en.shtml">english</a> | <a href="../es/drivers_es.shtml">espaÃ±ol</a> | <a href="../fr/drivers_fr.shtml">franÃ§ais</a> | italiano | <a href="../pt/drivers_pt.shtml">portuguÃªs</a></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
 
 		<h2 style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Diario Note Multimedia</span></strong></span></span></span></h2>
@@ -23,16 +23,16 @@ serif;">Compagno Windows&reg; software per la applicazione Diario Note Multimedi
 		<p>
 			<span style="color:#ff0000;"><strong><u><font face="arial, helvetica, sans-serif">Scarica e installazione di driver USB per Android</font></u></strong></span></p>
 		<p>
-			<span style="font-family:arial,helvetica,sans-serif;">Sync USB a connessione diretta necessita la configurazione iniziale dei Android USB driver per Windows, se non sono già installati sul computer.</span></p>
+			<span style="font-family:arial,helvetica,sans-serif;">Sync USB a connessione diretta necessita la configurazione iniziale dei Android USB driver per Windows, se non sono giÃ  installati sul computer.</span></p>
 		<p>
-			<span style="font-family: arial, helvetica, sans-serif; ">I driver USB per Windows sono specifici per ogni produttore del dispositivo Android, e sono disponibili gratuitamente dai siti web dei produttori. Il computer potrebbe già avere i driver installati se qualche software di sincronizzazione, backup o simili che si collega al vostro dispositivo tramite USB è stata installata precedentemente.</span></p>
+			<span style="font-family: arial, helvetica, sans-serif; ">I driver USB per Windows sono specifici per ogni produttore del dispositivo Android, e sono disponibili gratuitamente dai siti web dei produttori. Il computer potrebbe giÃ  avere i driver installati se qualche software di sincronizzazione, backup o simili che si collega al vostro dispositivo tramite USB Ã¨ stata installata precedentemente.</span></p>
 		<p>
 			<span style="font-family: arial, helvetica, sans-serif; ">I driver USB per Android sono noti anche come ADB (Android Debug Bridge) e sono disponibili dai produttori (OEM).</span></p>
 		<div>
 			<hr />
 		</div>
 		<div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">La modalità Debug USB deve essere ATTIVATA prima di installare i drivers</span></strong><strong><span style="font-family:arial,helvetica,sans-serif;">&nbsp;o iniziare la sincronizazione:</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">La modalitÃ  Debug USB deve essere ATTIVATA prima di installare i drivers</span></strong><strong><span style="font-family:arial,helvetica,sans-serif;">&nbsp;o iniziare la sincronizazione:</span></strong></div>
 		<div>
 			&nbsp;</div>
 		<div>
@@ -45,7 +45,7 @@ serif;">Compagno Windows&reg; software per la applicazione Diario Note Multimedi
 			&nbsp;</div>
 
 <div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Sui dispozitivi Android 4.2 e successivi vai su Impostazioni > Generale (Più) > Opzioni Sviluppatore > USB debugging attivato</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sui dispozitivi Android 4.2 e successivi vai su Impostazioni > Generale (PiÃ¹) > Opzioni Sviluppatore > USB debugging attivato</span></strong></div>
 		<div>
 			&nbsp;</div>
 
@@ -56,13 +56,13 @@ serif;">Compagno Windows&reg; software per la applicazione Diario Note Multimedi
 		</div>
 
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;"><i> - Vai al Impostazioni > Generale (Più)</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Vai al Impostazioni > Generale (PiÃ¹)</i></div>
 		<div>
 			<span style="font-family:arial,helvetica,sans-serif;"><i> - Premi &quot;Info sul dispozitivo&quot;</i></div>
 		<div>
 			<span style="font-family:arial,helvetica,sans-serif;"><i> - Premi il tasto &quot;Numero Build&quot; 7 volte.</i></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;">Modo Sviluppo dovrebbe essere sbloccato e disponibile in Impostazioni &gt; Generale (Più) &gt; Opzioni Sviluppatore</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;">Modo Sviluppo dovrebbe essere sbloccato e disponibile in Impostazioni &gt; Generale (PiÃ¹) &gt; Opzioni Sviluppatore</i></div>
 			</strong></i><hr />
 		</div>
 		<div>
@@ -135,9 +135,9 @@ serif;">LG</span></strong></div>
 		<div>
 			<span style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus:&nbsp;</span><a href="http://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=US&CttFileID=4884047&CDCttType=SW&ModelType=C&ModelName=SCH-I515MSAVZW&VPath=SW/201112/20111213223536733/Verizon_Wireless_I515_Galaxy_Nexus_USB_Driver_v1.4.6.0.exe" style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus USB Driver</a><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></div>
 		<div>
-			<span style="font-family: arial, helvetica, sans-serif; ">Se il dispositivo è uno dei telefoni Android Sviluppo (acquistato dal Android Play), un Nexus One, o un Nexus S, allora è necessario il </span><a href="http://developer.android.com/sdk/win-usb.html"  target="_blank" style="font-family: arial, helvetica, 
+			<span style="font-family: arial, helvetica, sans-serif; ">Se il dispositivo Ã¨ uno dei telefoni Android Sviluppo (acquistato dal Android Play), un Nexus One, o un Nexus S, allora Ã¨ necessario il </span><a href="http://developer.android.com/sdk/win-usb.html"  target="_blank" style="font-family: arial, helvetica, 
 
-sans-serif; ">driver USB Google</a><span style="font-family: arial, helvetica, sans-serif; ">, invece di un driver del produttore. Il driver Galaxy Nexus, tuttavia, è distribuito da </span><a href="http://www.samsung.com/us/support/downloads/verizon-wireless/SCH-
+sans-serif; ">driver USB Google</a><span style="font-family: arial, helvetica, sans-serif; ">, invece di un driver del produttore. Il driver Galaxy Nexus, tuttavia, Ã¨ distribuito da </span><a href="http://www.samsung.com/us/support/downloads/verizon-wireless/SCH-
 
 I515MSAVZW" target="_blank" style="font-family: arial, helvetica, sans-serif; ">Samsung </a><span style="font-
 
@@ -264,6 +264,6 @@ serif;">http://support.zte.com.cn/support/news/NewsDetail.aspx?newsId=1000442</s
 		<p style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;"><a href="index_it.shtml">home</a> | <a href="download_it.shtml">scarica</a> | driver USB | <a href="help_it.shtml">aiuto</a>&nbsp;| <a href="mailto:support@journal-notes.com">contattaci</a></span></p>
 		<p style="text-align: left; ">
-			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Termini di Servizio</a> © 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Termini di Servizio</a> Â© 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
 	</body>
 </html>

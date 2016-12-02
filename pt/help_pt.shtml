@@ -1,0 +1,208 @@
+<html>
+	<head>
+		<title>Diário Multimédia</title>
+	</head>
+	<body>
+		<h3>
+			<img src="robot.jpg" style="margin-right: 10px; float: left; width: 
+
+300px; height: 300px; " /></h3>
+
+
+		<p style="text-align: right; ">
+			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/help_de.shtml">deutsch</a> | <a href="../help_en.shtml">english</a> | <a href="../es/help_es.shtml">español</a> | <a href="../fr/help_fr.shtml">français</a> | <a href="../it/help_it.shtml">italiano</a> | português</span></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
+
+		<h2 style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Diário Multimédia</span></strong></span></span></span></h2>
+		<p style="text-align: center; ">
+			<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Programa adicional do Windows&reg; para los aplicativos Diário Multimédia do Android&trade; e BlackBerry&reg;</span></strong></p>
+		<p style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;">Wizard Solutions Inc.</span></p>
+		<hr />
+		<p>
+			<span style="color:#ff0000;"><strong><u><font face="arial, helvetica, sans-serif">Ajuda - Sincronizar as Notas</font></u></strong></span></p>
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">O software do computadores Diário Multimédia pode sincronizar com o Android e BlackBerry aplicativos de acompanhamento. O aplicativo Android está disponível para baixar no Google Play. A versão do BlackBerry está disponível no BlackBerry App World</span></p>
+
+
+
+
+		<p style="text-align: right; ">
+			<a href="http://play.google.com/store/apps/details?id=com.wsi.journalmedia" style="font-family: arial, helvetica, sans-serif; text-align: center; " target="_blank">Obtenha o app Diário Multimédia Android no Google Play</a> <a href="http://play.google.com/store/apps/details?id=com.wsi.journalmedia" target="_blank"> <img alt="Get it on Google Play" src="http://www.android.com/images/brand/get_it_on_play_logo_small.png" border=0/> </a></p>
+		<p style="text-align: right; ">
+			<a href="http://appworld.blackberry.com/webstore/content/110217/?lang=pt" style="font-family: arial, helvetica, sans-serif; text-align: center; " target="_blank">Obtenha o app Diário Multimédia em BlackBerry App World</a> <a href="http://appworld.blackberry.com/webstore/content/110217/?lang=pt" target="_blank"> <img src="../BBAppWorld_getitat_black.jpg" border=0/> </a></p>
+		<p>
+
+<hr>
+<p>
+			<u><strong><font face="arial, helvetica, sans-serif">Sincronização para Android</font></strong></u></p>
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">Diário Notas Multimédia irá sincronizar com telefones e tablet Android através rede sem fio (Wi-Fi) ou cabo USB. Sem acesso à Internet é necessária.</span></p>
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">A sincronização Wi-Fi funciona quando o computador eo dispositivo Android são ligado à mesma rede sem fio (para o mesmo roteador de rede).</span></p>
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">Sincronização via cabo USB pode ser realizado de duas maneiras: Sincronização direta com o controlador USB e Sincronização a armazenamento USB.</span></p>
+
+
+			<span style="font-family:arial,helvetica,sans-serif;">O Sincronização direta com o controlador USB é mais fácil de usar, mas ele exige a configuração inicial dos controladores USB Android para Windows, se eles já não estiverem instalados no seu computador.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">O Sincronização a armazenamento USB não necessita de qualquer configuração, mas ele só funciona em dispositivos Android com um cartão SD ou uma partição equivalente. Este método também é mais lenta para usar porque requer o armazenamento USB a ser ligado e desligado cada vez que uma sincronização é iniciado e durante a sincronização.</span></p>
+
+
+		<p>
+			<strong><font face="arial, helvetica, sans-serif">Android sync - rede local sem fio (Wi-Fi)</font></strong></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">Conecte o computador eo dispositivo Android na mesma rede sem fio (Wi-Fi).</span></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">O sincronização é iniciada abrindo a tela de sincronização Wi-Fi (a partir do menu Opções) no dispositivo Android e no menu correspondente no computador. A conexão será sempre iniciada PRIMEIRO a partir do telefone/tablet.</span></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">Caso seja desligado, prima o botão RECONECTAR no Android ANTES de clicar no botão CONECTAR no computador para restabelecer a conexão.</span></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">Depois que a conexão WiFi é estabelecida, clique no botão "Iniciar Sincronização" no computador para sincronizar as notas.</span></p>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTA: selecionando a opção "Remover o todas as notas excluídos" irá remover permanentemente as notas apagados de todos os dispositivos e computadores que participam da sincronização.</span></p>
+		<p>
+
+		<p>
+			<strong><font face="arial, helvetica, sans-serif">Android sync através do cabo USB - controlador direto</font></strong></p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">O cabo USB deve ser conectado entre o computador eo dispositivo.</span></p>
+		<p>
+			<strong><span style="font-family: arial, helvetica, sans-serif; ">O dispositivo Android devem ter o modo de depuração USB ativado antes de usar Sincronização direta com o controlador USB:</span></strong></p>
+		<div>
+			<strong><span style="font-family: arial, helvetica, sans-serif; ">Em dispositivos Android 1.x para 3.x vá para Configurações do systema - Aplicativos - Desenvolvimento - ativar a Depuração USB</span></strong></div>
+		<div>
+			&nbsp;</div>
+		<div><div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">
+			Em dispositivos Android 4.0 e 4.1 vá para Configurações do sistema > Opções do desenvolvedor > Ativar depuração USB</span></strong></div>
+<div>
+&nbsp;</div>
+
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Em dispositivos Android 4.2 e mais novos vá para Configurações do Sistema > Geral (Mais) > Opções do desenvolvedor > USB depuração ativado</span></strong></div>
+		<div>
+			&nbsp;</div>
+
+		<div>
+		<div>
+
+				<span style="font-family:arial,helvetica,sans-serif;"><i><strong>Em dispositivos Android 4.2 e mais novos (i.e Samsung Galaxy Note 3 e S4), pode ser necessário de desbloquear Opções do desenvolvedor antes de estar disponível no menu:
+		</div>
+
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - prima &quot;Configurações do sistema&quot;</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - prima &quot;Sobre o dispositivo&quot;</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - prima o botão &quot;Número de compilação&quot;  7 vezes.</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;">Modo de desenvolvedor agora deve ser desbloqueado e disponível em Configurações do Sistema &gt; Geral (Mais) &gt; Opções do desenvolvedor</i></div>
+			</strong></i><hr />
+		</div>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Este modo de sincronização é iniciado pela abertura da tela Sincronização direta com o controlador USB no dispositivo e no menu correspondente no computador. A conexão sempre será iniciado a partir do dispositivo PRIMEIRAMENTE.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Prima o botão CONECTAR NO DISPOSITIVO antes de clicar no botão Conectar no computador para estabelecer a conexão.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Quando a conexão USB está aberto, clique no botão "Iniciar Sincronização" no computador para sincronizar as notas.</span></p>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTA: selecionando a opção "Remover o todas as notas excluídos" irá remover permanentemente as notas apagados de todos os dispositivos e computadores que participam da sincronização.</span></p>
+		<p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;"><u>Sincronização direta com o controlador USB - configuração inicial</u></span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Este modo de sincronização requer a configuração inicial dos drivers USB Android para Windows, se eles já não estiverem instalados no seu computador.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Os controladores USB para Windows são específicos para cada fabricante de dispositivos Android. Eles são gratuitos a partir de sites de fabricantes. Provavelmente, o seu computador tem os controladores já instalados.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Verifique esta lista para <a href="drivers_pt.shtml" target="_blank"> opções do baixar e instalar controladores USB para Android</a>.</span></p>
+		<hr />
+		<p>
+			<strong><font face="arial, helvetica, sans-serif">Android sync através do cabo - armazenamento USB</font></strong></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">Sincronização a armazenamento USB funciona somente em dispositivos Android com um cartão SD ou uma partição equivalente. Este método é mais lento para usar porque requer o armazenamento USB para ser ligado e desligado cada vez que uma de sincronização é iniciado e durante a sincronização.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">O modo de armazenamento USB é usado em telefones e tablets Android para transferir arquivos com um computador via cabo USB. A configuração de armazenamento USB é acessível depois que o cabo USB está ligado, geralmente na barra de notificações superior ou a tela Configurações. Este modo deve ser ligado e desligado durante a transferência de notas porque o computador eo dispositivo não pode acessar o cartão SD simultaneamente.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Etapas para sincronizar novas notas a partir do dispositivo Android ao computador:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">conecte o cabo USB</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">desativar o modo de armazenamento USB</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">prima o botão "Colocar novas notas para computador" na aplicativo de dispositivo</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">ativar o modo de armazenamento USB</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">clique no botão "Obtenha notas de Android" no software de computador</span></li>
+		</ul>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Etapas para sincronizar novas notas a partir do computador ao dispositivo Android:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">conecte o cabo USB</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">ativar o modo de armazenamento USB</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">clique no botão "Colocar notas para Android" no software de computador</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">desativar o modo de armazenamento USB</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">prima o botão "Obtenha notas de computador" no aplicativo Android</span></li>
+		</ul>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTA: somente as novas notas serão transferidas e adicionadas aos que já existem, independentemente em cada dispositivo participante no sincronização. Notas existentes não serão atualizados pelo sincronização. Para excluir uma nota permanentemente lo deve ser removido manualmente a partir de todos os dispositivos participantes na sincronização.</span></p>
+		<p>
+		<hr />
+<p>
+			<u><strong><font face="arial, helvetica, sans-serif">BlackBerry sync - cabo USB</font></strong></u></p>
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">O BlackBerry pode ser conectado a um computador com um cabo USB. Uma vez conectado, irá mostrar como uma unidade externa ao computador. O computador irá utilizar esta unidade para transferir as novas notas com o BlackBerry.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">A unidade Blackberry necessita a configuração inicial do software de suporte que vem com o dispositivo. Este software é geralmente instalado automaticamente quando o BlackBerry está conectado ao computador pela primeira vez. Alternativamente, ela pode ser baixada a partir do <a href="http://ca.blackberry.com/support/software/desktop.jsp" target="_blank">site de suporte do BlackBerry</a>.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Etapas para sincronizar novas notas a partir do BlackBerry ao computador:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">conecte o cabo USB e verifique se a unidade BlackBerry está mostrando no Explorador do Windows</span></li>
+			<li>
+
+				<span style="font-family:arial,helvetica,sans-serif;">prima o botão "Colocar notas para computador" no aplicativo BlackBerry</span></li>
+
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">clique no botão "Obtenha notas de BlackBerry" no software de computador</span></li>
+		</ul>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Etapas para sincronizar novas notas a partir do computador ao BlackBerry:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">conecte o cabo USB e verifique se a unidade BlackBerry está mostrando no Explorador do Windows</span></li>
+
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">clique no botão "Colocar notas para BlackBerry" no software de computador</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">prima o botão "Obtenha notas de computador" no aplicativo BlackBerry</span></li>
+		</ul>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTA: somente as novas notas serão transferidas e adicionadas aos que já existem, independentemente em cada dispositivo participante no sincronização. Notas existentes não serão atualizados pelo sincronização. Para excluir uma nota permanentemente lo deve ser removido manualmente a partir de todos os dispositivos participantes na sincronização.</span></p>
+		<p>
+
+		<hr />
+		<p style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><a href="index_pt.shtml">início</a> | <a href="download_pt.shtml">baixar</a> | <a href="drivers_pt.shtml">controladores USB</a> | ajuda&nbsp;| <a href="mailto:support@journal-notes.com">contacte</a></span></p>
+		<p style="text-align: left; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Termos de Serviço</a> © 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
+	</body>
+</html>

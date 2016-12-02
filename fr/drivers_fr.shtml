@@ -1,0 +1,269 @@
+<html>
+	<head>
+		<title>Journal Multimédia</title>
+	</head>
+	<body>
+		<h3>
+			<img src="robot.jpg" style="margin-right: 10px; float: left; width: 
+
+300px; height: 300px; " /></h3>
+
+		<p style="text-align: right; ">
+			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/drivers_de.shtml">deutsch</a> | <a href="../drivers_en.shtml">english</a> | <a href="../es/drivers_es.shtml">español</a> | français | <a href="../it/drivers_it.shtml">italiano</a> | <a href="../pt/drivers_pt.shtml">português</a></span></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
+
+		<h2 style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Journal Multimédia</span></strong></span></span></span></h2>
+		<p style="text-align: center; ">
+			<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Logiciel Windows&reg; compagnon de l'appli Journal Multimédia pour Android™ et BlackBerry®</span></strong></p>
+		<p style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;">Wizard Solutions Inc.</span></p>
+		<hr />
+		<p>
+			<span style="color:#ff0000;"><strong><u><font face="arial, helvetica, sans-serif">Télécharger et installer le drivers USB pour Android</font></u></strong></span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">La synchronisation a connexion directe USB driver nécessite la configuration initiale des les Android USB drivers pour Windows, s'il ne sont pas déjà installé sur votre ordinateur.</span></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">Les drivers USB pour Windows sont spécifiques à chaque fabricant de périphérique Android. Ils sont disponibles gratuitement à partir des sites Web des fabricants. Votre ordinateur peut déjà avoir l'Android USB drivers installé si vous avez installé un logiciel de synchronisation, de sauvegarde/backup ou similaire qui se connecte à votre dispositif via le port USB.</span></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">USB drivers pour Android sont aussi connus comme ADB (Android Debug Bridge). Ils sont disponibles comme téléchargement gratuit à partir des fabricants (OEM&#39;s).</span></p>
+		<div>
+			<hr />
+		</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Le dispositif Android doit avoir le mode Débogage USB activé avant d'installer les drivers et avant d'utiliser la synchronisation a Connexion directe USB driver:</span></strong></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur périphériques Android 1.x à 3.x allez dans Paramètres - Applications - Développement - activer Débogage USB</span></strong></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur périphériques Android 4.0 et 4.1 allez dans Paramètres - Options pour les développeurs - Activer le Débogage USB</span></strong></div>
+<div>
+&nbsp;</div>
+
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur périphériques Android 4.2 et périphériques plus récents allez dans Paramètres > Général (Plus) > Options de développement > Activer le Débogage USB</span></strong></div>
+		<div>
+			&nbsp;</div>
+
+		<div>
+		<div>
+
+				<span style="font-family:arial,helvetica,sans-serif;"><i><strong>NOTE: Sur périphériques Android 4.2 et périphériques plus récents (i.e Samsung Galaxy Note 3 et S4), vous devrez peut-être débloquer "Options de développement" avant qu'il soit disponible dans le menu:
+		</div>
+
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Allez dans Settings > Général (Plus)</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Appuyez &quot;À propos du périphérique&quot;</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Appuyez sur le bouton &quot;Numéro de version&quot; 7 fois.</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;">"Options de développement" devrait maintenant être déverrouillé et disponible dans Paramètres &gt; Général (Plus) &gt; Options de développement</i></div>
+			</strong></i><hr />
+		</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Samsung</span></strong></div>
+		<div>
+			<a href="http://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?
+
+CDSite=US&amp;CttFileID=4884047&amp;CDCttType=SW&amp;ModelType=C&amp;ModelName=SCH-
+
+I515MSAVZW&amp;VPath=SW/201112/20111213223536733/Verizon_Wireless_I515_Galaxy_Nexus_USB_Driver
+
+_v1.4.6.0.exe" style="font-family: arial, helvetica, sans-serif; ">Samsung USB Driver</a><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></div>
+		<div>
+			<span style="font-family: arial, helvetica, sans-serif; ">Assistance Samsung:&nbsp;<a href="http://www.samsung.com/us/support/downloads" target="_blank">http://www.samsung.com/us/supp</a></span><a href="http://www.samsung.com/us/support/downloads" style="font-family: arial, helvetica, sans
+
+-serif; ">ort/downloads</a></div>
+		<div>
+			<span style="font-family: arial, helvetica, sans-serif; ">Samsung Kies comprend les USB drivers:</span><span style="font-family:arial,helvetica,sans-serif;">&nbsp;<a href="http://www.samsung.com/us/kies/" target="_blank">http://www.samsung.com/us/kies/</a></span></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Motorola</span></strong></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.motorola.com/Support/US-EN/Support-Homepage/Software_and_Drivers/USB-and-PC-
+
+Charging-Drivers" target="_blank">http://www.motorola.com/Support/US-EN/Support- Homepage/Software_and_Drivers/USB-and -PC-Charging-Drivers</a></span></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">HTC</span></strong></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;">Le logiciel HTC Sync software comprend les USB drivers:&nbsp;<a href="http://www.htc.com/www/help/" target="_blank">http://www.htc.com/www/help/</a></span></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sony Ericsson</span></strong></div>
+		<div>
+			<a href="http://developer.sonymobile.com/wportal/devworld/search-
+
+downloads/driver?cc=gb&amp;lc=en" target="_blank"><span style="font-family:arial,helvetica,sans-
+
+serif;" target="_blank">http://developer.sonyericsson.com/wportal/devworld/search-downloads/driver? cc=gb&amp;lc=en</span></a></div>
+		<div>
+
+		<div>
+			<a href="http://www.sonymobile.com/gb/tools/pc-companion/" target="_blank"><span style="font-family:arial,helvetica,sans-
+
+serif;">Sony PC Companion</a></span> <span style="font-family:arial,helvetica,sans-
+
+serif;">- comprend les USB drivers</span></div>
+		<div>
+
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">LG</span></strong></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.lg.com/us/support/cell-phones" target="_blank"><span>http://www.lg.com/us/mobile-phones/mobile-support/mobile-lg-mobile-phone- support.jsp</span></a></span></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Google Nexus</span></strong></div>
+		<div>
+			<span style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus:&nbsp;</span><a href="http://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=US&CttFileID=4884047&CDCttType=SW&ModelType=C&ModelName=SCH-I515MSAVZW&VPath=SW/201112/20111213223536733/Verizon_Wireless_I515_Galaxy_Nexus_USB_Driver_v1.4.6.0.exe" style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus USB Driver</a><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></div>
+		<div>
+			<span style="font-family: arial, helvetica, sans-serif; ">Si votre périphérique est l'un des téléphones Android Développeur (acheté sur le site Google Play), un Nexus One, ou un Nexus S, alors vous avez besoin du </span><a href="http://developer.android.com/sdk/win-usb.html"  target="_blank" style="font-family: arial, helvetica, 
+
+sans-serif; ">Google USB drivers</a><span style="font-family: arial, helvetica, sans-serif; ">, au lieu d'un driver OEM.&nbsp;. Le driver pour Galaxy Nexus, toutefois est distribué par </span><a href="http://www.samsung.com/us/support/downloads/verizon-wireless/SCH-
+
+I515MSAVZW" target="_blank" style="font-family: arial, helvetica, sans-serif; ">Samsung</a><span style="font-
+
+family: arial, helvetica, sans-serif; ">&nbsp;<span style="font-family:arial,helvetica,sans-serif;">(classé comme modèle SCH-I515).</span></span></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<strong><span style="font-family: arial, helvetica, sans-serif; ">Acer </span></strong></div>
+		<div>
+			<a href="http://www.acer.com/worldwide/support/mobile.html" target="_blank"><span style="font-family: arial, helvetica, sans-serif; 
+
+">http://www.acer.com/worldwide/support/mobile.html</span></a></div>
+		<div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Alcatel one touch </span></strong></div>
+			<div>
+				<a href="http://www.alcatel-mobilephones.com/global/Android-
+
+Downloads" target="_blank"><span style="font-family:arial,helvetica,sans-serif;">http://www.alcatel- mobilephones.com/global/Android-Downloads</span></a></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Asus </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://support.asus.com/download/" target="_blank">http://support.asus.com/download/</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Dell </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://support.dell.com/support/downloads/index.aspx? 
+
+c=us&amp;cs=19&amp;l=en&amp;s=dhs&amp;~ck=anavml" target="_blank">http://support.dell.com/support/downloads/index.aspx? c=us&amp;cs=19&amp;l=en&amp;s=dhs&amp;~ck=anavml</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Foxconn </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://drivers.cmcs.com.tw/" target="_blank">http://drivers.cmcs.com.tw/</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Fujitsu </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.fmworld.net/product/phone/sp/android/develop/" target="_blank">http://www.fmworld.net/product/phone/sp/android/develop/</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Fujitsu Toshiba </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.fmworld.net/product/phone/sp/android/develop/" target="_blank">http://www.fmworld.net/product/phone/sp/android/develop/</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Garmin- Asus </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.garminasus.com/en_US/support/pcsync/" target="_blank">https://www.garminasus.com/en_US/support/pcsync/</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Hisense </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://app.hismarttv.com/dss/resourcecontent.do? 
+
+method=viewResourceDetail&amp;resourceId=16&amp;type=5" target="_blank">http://app.hismarttv.com/dss/resourcecontent.do? method=viewResourceDetail&amp;resourceId=16&amp;type=5</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Huawei</span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.huaweidevice.com/worldwide/downloadCenter.do?method=index" target="_blank"> http://www.huaweidevice.com/worldwide/downloadCenter.do?method=index</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">KT Tech </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.kttech.co.kr/cscenter/download05.asp" target="_blank">http://www.kttech.co.kr/cscenter/downlo ad05.asp</a> pour EV-S100 (Take)</span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-serif;">Kyocera </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.kyocera-
+
+wireless.com/support/phone_drivers.htm" target="_blank">http://www.kyocera-wireless.com/support/phone_drivers.htm</a></span></div>
+			<div>
+				<strong><font face="arial, helvetica, sans-serif">Lenovo</font></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://developer.lenovomm.com/developer/download.jsp" target="_blank">http://developer.lenovomm.com/developer/download.jsp</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Pantech </span></strong></div>
+			<div>
+				<a href="http://www.isky.co.kr/cs/software/software.sky?
+
+fromUrl=index"><span style="font-family:arial,helvetica,sans-
+
+serif;" target="_blank">http://www.isky.co.kr/cs/software/software.sky?fromUrl=index</span></a></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Pegatron </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.pegatroncorp.com/download/New_Duke_PC_Driver_0705.zip" target="_blank">http://www.pegatroncor p.com/download/New_Duke_PC_Driver_0705.zip</a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Sharp </span></strong></div>
+			<div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://k-tai.sharp.co.jp/support/" target="_blank"><span>http://k-tai.sharp.co.jp/support/</span></a></span></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">SK Telesys </span></strong></div>
+			<div>
+				<a href="http://www.sk-
+
+w.com/service/wDownload/wDownload.jsp" target="_blank"><span style="font-family:arial,helvetica,sans-
+
+serif;">http://www.sk-w.com/service/wDownload/wDownload.jsp</span></a></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Teleepoch </span></strong></div>
+			<div>
+				<a href="http://www.teleepoch.com/android.html" target="_blank"><span style="font-family:arial,helvetica,sans-
+
+serif;">http://www.teleepoch.com/android.html</span></a></div>
+			<div>
+				<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">ZTE </span></strong></div>
+			<div>
+				<a href="http://support.zte.com.cn/support/news/NewsDetail.aspx?newsId=1000442" target="_blank"><span style="font-family:arial,helvetica,sans-
+
+serif;">http://support.zte.com.cn/support/news/NewsDetail.aspx?newsId=1000442</span></a></div>
+		</div>
+		<hr />
+
+		<p style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><a href="index_fr.shtml">accueil</a> | <a href="download_fr.shtml">telecharger</a> | USB drivers | <a href="help_fr.shtml">aide</a> | <a href="mailto:support@journal-notes.com">contacter</a></span></p>
+		<p style="text-align: left; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Conditions d'utilisation</a> © 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
+	</body>
+</html>

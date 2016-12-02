@@ -1,0 +1,223 @@
+<html>
+	<head>
+		<title>Journal Notes Multimedia</title>
+	</head>
+	<body>
+		<h3>
+			<img src="robot.jpg" style="margin-right: 10px; float: left; width: 
+
+300px; height: 300px; " /></h3>
+
+
+		<p style="text-align: right; ">
+			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="de/help_de.shtml">deutsch</a> | english | <a href="es/help_es.shtml">español</a> | <a href="fr/help_fr.shtml">français</a> | <a href="it/help_it.shtml">italiano</a> | <a href="pt/help_pt.shtml">português</a></span></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
+		<h2 style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Journal Notes Multimedia</span></strong></span></span></span></h2>
+		<p style="text-align: center; ">
+			<strong><span style="font-family:arial,helvetica,sans-
+
+serif;">Companion Windows&reg; software for Journal Notes Multimedia Android&trade; and BlackBerry&reg; apps</span></strong></p>
+		<p style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;">Wizard Solutions Inc.</span></p>
+		<hr />
+		<p>
+			<span style="color:#ff0000;"><strong><u><font face="arial, helvetica, sans-serif">Online Help - Synchronize Notes</font></u></strong></span></p>
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">The Journal Notes Multimedia Windows software can synchronize with its companion Android and BlackBerry applications. The Android app is available for download on Google Play. A BlackBerry version is available on BlackBerry World.</span></p>
+
+		<p style="text-align: right; ">
+			<a href="http://play.google.com/store/apps/details?id=com.wsi.journalmedia" style="font-family: arial, helvetica, sans-serif; text-align: center; " target="_blank">Get the Journal Notes Multimedia Android app on Google Play</a> <a href="http://play.google.com/store/apps/details?id=com.wsi.journalmedia" target="_blank"> <img alt="Get it on Google Play" src="http://www.android.com/images/brand/get_it_on_play_logo_small.png" border=0/> </a></p>
+		<p>
+
+		<p style="text-align: right; ">
+			<a href="http://appworld.blackberry.com/webstore/content/110217" target="_blank" style="font-family: arial, helvetica, sans-serif; text-align: center; ">Get the Journal Notes Multimedia BlackBerry app on BlackBerry World</a> <a href="http://appworld.blackberry.com/webstore/content/110217" target="_blank"> <img src="BBAppWorld_getitat_black.jpg" border=0/> </a></p>
+		
+
+<hr>
+<p>
+			<u><strong><font face="arial, helvetica, sans-serif">Android Sync</font></strong></u></p>
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">Journal Notes Multimedia will synchronize</span><span style="font-family: arial, helvetica, sans-serif; 
+
+">&nbsp;with Android phones and tablets via WiFi (wireless) network or USB cable. No Internet access is required.</span></p>
+
+
+		<p>
+
+			<span style="font-family: arial, helvetica, sans-serif; ">WiFi synchronization works when both the computer and the Android device are connected to same wireless network (to the same network router).</span></p>
+
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Synchronization via USB cable can be done in two ways: USB driver direct sync and USB storage transfer sync. The USB driver direct sync is easier to use but it requires the initial configuration of the Android USB drivers for Windows, if they are not already installed on your PC.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">USB storage sync does not require any configuration but it works only on Android devices with an SD card or equivalent partition. This method is also slower to use as it requires the USB storage to be turned on and off each time a sync is started and during the synchronization.</span></p>
+
+
+		<p>
+			<strong><font face="arial, helvetica, sans-serif">Android WiFi sync</font></strong></p>
+
+
+			<span style="font-family: arial, helvetica, sans-serif; ">Connect the PC and the Android device to the same wireless network.</span></p>
+
+<p>
+
+			<span style="font-family:arial,helvetica,sans-serif;">The sync mode is started by opening the WiFi sync screen (from the Options menu) on the device and the corresponding menu on the PC. The connection will always be started from the device FIRST.</span></p>
+		<p>
+
+			<span style="font-family:arial,helvetica,sans-serif;">Press the CONNECT button on the device BEFORE clicking the CONNECT button on the computer to establish the connection.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Once the WiFi connection is established, click the START SYNC button on the computer to synchronize the notes.</span></p>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTE: Checking the "Remove all deleted notes" checkbox will permanently remove the deleted notes from all the devices and computers participating in the sync.</span></p>
+		<p>
+		<p>
+			<strong><font face="arial, helvetica, sans-serif">Android USB driver direct sync</font></font></strong></p>
+
+
+
+			<span style="font-family: arial, helvetica, sans-serif; ">The USB cable must be connected between the computer and the device.</span></p>
+					<p>
+		</div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;">The Android device must have the USB Debugging mode ENABLED</span><span style="font-family:arial,helvetica,sans-serif;">&nbsp;before installing drivers and before using USB direct driver sync:</span></div>
+		<div>
+			&nbsp;</div>
+		<div><i>
+			<span style="font-family:arial,helvetica,sans-serif;">On Android 1.x to 3.x devices go to Settings > Applications > Development > Enable USB debugging</span></div>
+		<div>
+			&nbsp;</div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;">On Android 4.0 and 4.1 devices go to System Settings > Developer Options > Enable USB debugging</span></div>
+		<div>
+			&nbsp;</div>
+
+<div>
+			<span style="font-family:arial,helvetica,sans-serif;">On Android 4.2 and newer devices go to Settings > General (More) > Developer Options > Enable USB debugging</span></div>
+		<div>
+			&nbsp;</div>
+
+		<div>
+		<div>
+
+				<span style="font-family:arial,helvetica,sans-serif;"><i>For the Android 4.2 and newer devices (i.e Samsung Galaxy Note 3 and S4), you may need to unlock Developer Options before it is available within the Menu:
+		</div>
+
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Go to Settings > General (More)</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Tap &quot;About Device&quot;</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Tap on the &quot;Build Number&quot; button 7 times.</i></div>
+		<div>
+			<span style="font-family:arial,helvetica,sans-serif;">Developer Mode should now be unlocked and available in Settings &gt; General (More) &gt; Developer Options</i></div>
+			</i><p/>
+
+
+			<span style="font-family:arial,helvetica,sans-serif;">The sync mode is started by opening the USB driver direct screen on the device and the corresponding menu on the PC. The connection will always be started from the device FIRST.</span></p>
+		<p>
+
+			<span style="font-family:arial,helvetica,sans-serif;">Press the CONNECT button on the device BEFORE clicking the CONNECT button on the PC to establish the connection.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Once the USB connection is established, click the START SYNC button on the computer to synchronize the notes.</span></p>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTE: Checking the "Remove all deleted notes" checkbox will permanently remove the deleted notes from all the devices and computers participating in the sync.</span></p>
+		<p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;"><u>Android USB driver direct sync initial configuration</u></span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">This sync mode requires the initial configuration of the Android USB drivers for Windows, if they are not already installed on your PC.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">The USB drivers for Windows are specific for each Android device manufacturer. They are available for free from the manufacturers web sites. Most likely, your computer has the drivers already installed.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Check this listing for <a href="drivers_en.shtml" target="_blank">Android USB driver download and install options</a>.</span></p>
+
+		<p>
+			<strong><font face="arial, helvetica, sans-serif">Android USB storage transfer sync</font></strong></p>
+		<p>
+
+
+
+			<span style="font-family: arial, helvetica, sans-serif; ">USB storage sync works only on Android devices with an SD card or equivalent partition (mass storage). This method is slower to use as it requires the USB storage to be turned on and off each time a sync is started and during the synchronization.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">The USB storage mode is used on Android phones and tablets to transfer files with a computer via USB cable. The USB storage setting is accessible after the USB cable is plugged, usually in the upper notification bar or the Settings screen. This mode must be toggled on and off while transferring notes because the computer and the device cannot access the SD Card at the same time.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Steps to sync new notes from the Android device to the PC:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">connect the USB cable</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">turn the USB storage mode off</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">press the "Put Notes to PC" button on the device app</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">turn the USB storage mode on</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">click the "Get Notes from Device" button on the PC software</span></li>
+		</ul>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Steps to sync new notes from the PC to the Android device:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">connect the USB cable</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">turn the USB storage on</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">click the "Put Notes to Device" button on the PC software</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">turn the USB storage off</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">press the "Get Notes from PC" button on the Android app</span></li>
+		</ul>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTE: only the new notes will be transferred and added to the existing ones, independently on each device participating in the sync. Existing notes will not be updated by the sync. To delete a note permanently it must be manually removed from all the devices participating in the sync.</span></p>
+		<p>
+
+		<hr />
+<p>
+			<u><strong><font face="arial, helvetica, sans-serif">BlackBerry BlackBerry Sync</font></strong></u></p>
+		<p>
+
+
+			<span style="font-family: arial, helvetica, sans-serif; ">The BlackBerry can be connected to a computer with a USB cable. Once connected, it will show as an external drive to the computer. The computer will use this drive to transfer the new notes with the BlackBerry.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">The Blackberry drive requires the initial setting of the support software that comes with the device. This software is usually installed automatically when the BlackBerry is connected to the computer for the first time. Alternately, it can be downloaded from the <a href="http://ca.blackberry.com/support/software/desktop.jsp" target="_blank">BlackBerry support website</a>.</span></p>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Steps to sync new notes from the BlackBerry to the PC:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">connect the USB cable and make sure the BlackBerry drive is showing in Windows Explorer</span></li>
+			<li>
+
+				<span style="font-family:arial,helvetica,sans-serif;">press the "Put notes to computer" button on the BlackBerry app</span></li>
+
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">click the "Get new notes from BlackBerry" button on the computer software</span></li>
+		</ul>
+		<p>
+			<span style="font-family:arial,helvetica,sans-serif;">Steps to sync new notes from the computer to the BlackBerry:</span></p>
+		<ul>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">connect the USB cable and make sure the BlackBerry drive is showing in Windows Explorer</span></li>
+
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">click the "Send new notes to BlackBerry" button on the computer software</span></li>
+			<li>
+				<span style="font-family:arial,helvetica,sans-serif;">press the "Get notes from computer" button on the BlackBerry app</span></li>
+		</ul>
+
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; ">NOTE: only the new notes will be transferred and added to the existing ones, independently on each device participating in the sync. Existing notes will not be updated by the sync. To delete a note permanently it must be manually removed from all the devices participating in the sync.</span></p>
+		<p>
+		<hr />
+
+		<p style="text-align: center; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><a href="index.shtml">home</a> | <a href="download_en.shtml">download</a> | <a href="drivers_en.shtml">USB drivers</a> | help&nbsp;| <a href="http://wizard-solutions.blogspot.ca/"  target="_new">blog</a> | <a href="mailto:support@journal-notes.com">contact</a></span></p>
+		<p style="text-align: left; ">
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="terms.html">Terms of Service</a> © 2012 - 2015 Wizard Solutions Inc.</span></span></span></p>
+	
+
+</body></html>

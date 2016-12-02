@@ -1,5 +1,5 @@
 <html>
-	<head>
+	 <head>
 		<title>Diario Note Multimedia</title>
 	</head>
 	<body>
@@ -8,7 +8,7 @@
 
 300px; height: 300px; " /></h3>
 		<p style="text-align: right; ">
-			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/download_de.shtml">deutsch</a> | <a href="../download_en.shtml">english</a> | <a href="../es/download_es.shtml">español</a> | <a href="../fr/download_fr.shtml">français</a> | italiano | <a href="../pt/download_pt.shtml">português</span></a></em></p>
+			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/download_de.shtml">deutsch</a> | <a href="../download_en.shtml">english</a> | <a href="../es/download_es.shtml">espaÃ±ol</a> | <a href="../fr/download_fr.shtml">franÃ§ais</a> | italiano | <a href="../pt/download_pt.shtml">portuguÃªs</span></a></em></p>
 
 		<h2 style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Diario Note Multimedia</span></strong></span></span></span></h2>
@@ -37,6 +37,6 @@ serif;">Compagno Windows&reg; software per la applicazione Diario Note Multimedi
 		<p style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;"><a href="index_it.shtml">home</a> | scarica | <a href="drivers_it.shtml">driver USB</a> | <a href="help_it.shtml">aiuto</a>&nbsp;| <a href="mailto:support@journal-notes.com">contattaci</a></span></p>
 		<p style="text-align: left; ">
-			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Termini di Servizio</a> © 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Termini di Servizio</a> Â© 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
 	</body>
 </html>

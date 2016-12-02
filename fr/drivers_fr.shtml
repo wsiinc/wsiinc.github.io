@@ -1,6 +1,6 @@
 <html>
-	<head>
-		<title>Journal Multimédia</title>
+	 <head>
+		<title>Journal MultimÃ©dia</title>
 	</head>
 	<body>
 		<h3>
@@ -9,59 +9,59 @@
 300px; height: 300px; " /></h3>
 
 		<p style="text-align: right; ">
-			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/drivers_de.shtml">deutsch</a> | <a href="../drivers_en.shtml">english</a> | <a href="../es/drivers_es.shtml">español</a> | français | <a href="../it/drivers_it.shtml">italiano</a> | <a href="../pt/drivers_pt.shtml">português</a></span></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
+			<em><span style="font-family:arial,helvetica,sans-serif;"><a href="../de/drivers_de.shtml">deutsch</a> | <a href="../drivers_en.shtml">english</a> | <a href="../es/drivers_es.shtml">espaÃ±ol</a> | franÃ§ais | <a href="../it/drivers_it.shtml">italiano</a> | <a href="../pt/drivers_pt.shtml">portuguÃªs</a></span></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
 
 		<h2 style="text-align: center; ">
-			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Journal Multimédia</span></strong></span></span></span></h2>
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Journal MultimÃ©dia</span></strong></span></span></span></h2>
 		<p style="text-align: center; ">
 			<strong><span style="font-family:arial,helvetica,sans-
 
-serif;">Logiciel Windows&reg; compagnon de l'appli Journal Multimédia pour Android™ et BlackBerry®</span></strong></p>
+serif;">Logiciel Windows&reg; compagnon de l'appli Journal MultimÃ©dia pour Androidâ„¢ et BlackBerryÂ®</span></strong></p>
 		<p style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;">Wizard Solutions Inc.</span></p>
 		<hr />
 		<p>
-			<span style="color:#ff0000;"><strong><u><font face="arial, helvetica, sans-serif">Télécharger et installer le drivers USB pour Android</font></u></strong></span></p>
+			<span style="color:#ff0000;"><strong><u><font face="arial, helvetica, sans-serif">TÃ©lÃ©charger et installer le drivers USB pour Android</font></u></strong></span></p>
 		<p>
-			<span style="font-family:arial,helvetica,sans-serif;">La synchronisation a connexion directe USB driver nécessite la configuration initiale des les Android USB drivers pour Windows, s'il ne sont pas déjà installé sur votre ordinateur.</span></p>
+			<span style="font-family:arial,helvetica,sans-serif;">La synchronisation a connexion directe USB driver nÃ©cessite la configuration initiale des les Android USB drivers pour Windows, s'il ne sont pas dÃ©jÃ  installÃ© sur votre ordinateur.</span></p>
 		<p>
-			<span style="font-family: arial, helvetica, sans-serif; ">Les drivers USB pour Windows sont spécifiques à chaque fabricant de périphérique Android. Ils sont disponibles gratuitement à partir des sites Web des fabricants. Votre ordinateur peut déjà avoir l'Android USB drivers installé si vous avez installé un logiciel de synchronisation, de sauvegarde/backup ou similaire qui se connecte à votre dispositif via le port USB.</span></p>
+			<span style="font-family: arial, helvetica, sans-serif; ">Les drivers USB pour Windows sont spÃ©cifiques Ã  chaque fabricant de pÃ©riphÃ©rique Android. Ils sont disponibles gratuitement Ã  partir des sites Web des fabricants. Votre ordinateur peut dÃ©jÃ  avoir l'Android USB drivers installÃ© si vous avez installÃ© un logiciel de synchronisation, de sauvegarde/backup ou similaire qui se connecte Ã  votre dispositif via le port USB.</span></p>
 		<p>
-			<span style="font-family: arial, helvetica, sans-serif; ">USB drivers pour Android sont aussi connus comme ADB (Android Debug Bridge). Ils sont disponibles comme téléchargement gratuit à partir des fabricants (OEM&#39;s).</span></p>
+			<span style="font-family: arial, helvetica, sans-serif; ">USB drivers pour Android sont aussi connus comme ADB (Android Debug Bridge). Ils sont disponibles comme tÃ©lÃ©chargement gratuit Ã  partir des fabricants (OEM&#39;s).</span></p>
 		<div>
 			<hr />
 		</div>
 		<div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Le dispositif Android doit avoir le mode Débogage USB activé avant d'installer les drivers et avant d'utiliser la synchronisation a Connexion directe USB driver:</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Le dispositif Android doit avoir le mode DÃ©bogage USB activÃ© avant d'installer les drivers et avant d'utiliser la synchronisation a Connexion directe USB driver:</span></strong></div>
 		<div>
 			&nbsp;</div>
 		<div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur périphériques Android 1.x à 3.x allez dans Paramètres - Applications - Développement - activer Débogage USB</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur pÃ©riphÃ©riques Android 1.x Ã  3.x allez dans ParamÃ¨tres - Applications - DÃ©veloppement - activer DÃ©bogage USB</span></strong></div>
 		<div>
 			&nbsp;</div>
 		<div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur périphériques Android 4.0 et 4.1 allez dans Paramètres - Options pour les développeurs - Activer le Débogage USB</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur pÃ©riphÃ©riques Android 4.0 et 4.1 allez dans ParamÃ¨tres - Options pour les dÃ©veloppeurs - Activer le DÃ©bogage USB</span></strong></div>
 <div>
 &nbsp;</div>
 
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur périphériques Android 4.2 et périphériques plus récents allez dans Paramètres > Général (Plus) > Options de développement > Activer le Débogage USB</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Sur pÃ©riphÃ©riques Android 4.2 et pÃ©riphÃ©riques plus rÃ©cents allez dans ParamÃ¨tres > GÃ©nÃ©ral (Plus) > Options de dÃ©veloppement > Activer le DÃ©bogage USB</span></strong></div>
 		<div>
 			&nbsp;</div>
 
 		<div>
 		<div>
 
-				<span style="font-family:arial,helvetica,sans-serif;"><i><strong>NOTE: Sur périphériques Android 4.2 et périphériques plus récents (i.e Samsung Galaxy Note 3 et S4), vous devrez peut-être débloquer "Options de développement" avant qu'il soit disponible dans le menu:
+				<span style="font-family:arial,helvetica,sans-serif;"><i><strong>NOTE: Sur pÃ©riphÃ©riques Android 4.2 et pÃ©riphÃ©riques plus rÃ©cents (i.e Samsung Galaxy Note 3 et S4), vous devrez peut-Ãªtre dÃ©bloquer "Options de dÃ©veloppement" avant qu'il soit disponible dans le menu:
 		</div>
 
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;"><i> - Allez dans Settings > Général (Plus)</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Allez dans Settings > GÃ©nÃ©ral (Plus)</i></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;"><i> - Appuyez &quot;À propos du périphérique&quot;</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Appuyez &quot;Ã€ propos du pÃ©riphÃ©rique&quot;</i></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;"><i> - Appuyez sur le bouton &quot;Numéro de version&quot; 7 fois.</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - Appuyez sur le bouton &quot;NumÃ©ro de version&quot; 7 fois.</i></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;">"Options de développement" devrait maintenant être déverrouillé et disponible dans Paramètres &gt; Général (Plus) &gt; Options de développement</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;">"Options de dÃ©veloppement" devrait maintenant Ãªtre dÃ©verrouillÃ© et disponible dans ParamÃ¨tres &gt; GÃ©nÃ©ral (Plus) &gt; Options de dÃ©veloppement</i></div>
 			</strong></i><hr />
 		</div>
 		<div>
@@ -134,13 +134,13 @@ serif;">LG</span></strong></div>
 		<div>
 			<span style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus:&nbsp;</span><a href="http://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=US&CttFileID=4884047&CDCttType=SW&ModelType=C&ModelName=SCH-I515MSAVZW&VPath=SW/201112/20111213223536733/Verizon_Wireless_I515_Galaxy_Nexus_USB_Driver_v1.4.6.0.exe" style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus USB Driver</a><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></div>
 		<div>
-			<span style="font-family: arial, helvetica, sans-serif; ">Si votre périphérique est l'un des téléphones Android Développeur (acheté sur le site Google Play), un Nexus One, ou un Nexus S, alors vous avez besoin du </span><a href="http://developer.android.com/sdk/win-usb.html"  target="_blank" style="font-family: arial, helvetica, 
+			<span style="font-family: arial, helvetica, sans-serif; ">Si votre pÃ©riphÃ©rique est l'un des tÃ©lÃ©phones Android DÃ©veloppeur (achetÃ© sur le site Google Play), un Nexus One, ou un Nexus S, alors vous avez besoin du </span><a href="http://developer.android.com/sdk/win-usb.html"  target="_blank" style="font-family: arial, helvetica, 
 
-sans-serif; ">Google USB drivers</a><span style="font-family: arial, helvetica, sans-serif; ">, au lieu d'un driver OEM.&nbsp;. Le driver pour Galaxy Nexus, toutefois est distribué par </span><a href="http://www.samsung.com/us/support/downloads/verizon-wireless/SCH-
+sans-serif; ">Google USB drivers</a><span style="font-family: arial, helvetica, sans-serif; ">, au lieu d'un driver OEM.&nbsp;. Le driver pour Galaxy Nexus, toutefois est distribuÃ© par </span><a href="http://www.samsung.com/us/support/downloads/verizon-wireless/SCH-
 
 I515MSAVZW" target="_blank" style="font-family: arial, helvetica, sans-serif; ">Samsung</a><span style="font-
 
-family: arial, helvetica, sans-serif; ">&nbsp;<span style="font-family:arial,helvetica,sans-serif;">(classé comme modèle SCH-I515).</span></span></div>
+family: arial, helvetica, sans-serif; ">&nbsp;<span style="font-family:arial,helvetica,sans-serif;">(classÃ© comme modÃ¨le SCH-I515).</span></span></div>
 		<div>
 			&nbsp;</div>
 		<div>
@@ -264,6 +264,6 @@ serif;">http://support.zte.com.cn/support/news/NewsDetail.aspx?newsId=1000442</s
 		<p style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;"><a href="index_fr.shtml">accueil</a> | <a href="download_fr.shtml">telecharger</a> | USB drivers | <a href="help_fr.shtml">aide</a> | <a href="mailto:support@journal-notes.com">contacter</a></span></p>
 		<p style="text-align: left; ">
-			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Conditions d'utilisation</a> © 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Conditions d'utilisation</a> Â© 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
 	</body>
 </html>

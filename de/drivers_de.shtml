@@ -1,5 +1,5 @@
 <html>
-	<head>
+	 <head>
 		<title>Journal Notizen Multimedia</title>
 	</head>
 	<body>
@@ -9,59 +9,59 @@
 300px; height: 300px; " /></h3>
 
 		<p style="text-align: right; ">
-			<em><span style="font-family:arial,helvetica,sans-serif;">deutsch | <a href="../drivers_en.shtml">english</a> | <a href="../es/drivers_es.shtml">español</a> | <a href="../fr/drivers_fr.shtml">français</a> | <a href="../it/drivers_it.shtml">italiano</a> | <a href="../pt/drivers_pt.shtml">português</a></span></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
+			<em><span style="font-family:arial,helvetica,sans-serif;">deutsch | <a href="../drivers_en.shtml">english</a> | <a href="../es/drivers_es.shtml">espaÃ±ol</a> | <a href="../fr/drivers_fr.shtml">franÃ§ais</a> | <a href="../it/drivers_it.shtml">italiano</a> | <a href="../pt/drivers_pt.shtml">portuguÃªs</a></span></em><span style="font-family:arial,helvetica,sans-serif;"></span></p>
 
 		<h2 style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#ff0000;"><span><strong><span>Journal Notizen Multimedia</span></strong></span></span></span></h2>
 		<p style="text-align: center; ">
 			<strong><span style="font-family:arial,helvetica,sans-
 
-serif;">Begleiter Windows®-Software für Journal Notizen Multimedia Android™ unt BlackBerry®-App</span></strong></p>
+serif;">Begleiter WindowsÂ®-Software fÃ¼r Journal Notizen Multimedia Androidâ„¢ unt BlackBerryÂ®-App</span></strong></p>
 		<p style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;">Wizard Solutions Inc.</span></p>
 		<hr />
 		<p>
 			<span style="color:#ff0000;"><strong><u><font face="arial, helvetica, sans-serif">Android-USB-Treiber downloaden und installieren</font></u></strong></span></p>
 		<p>
-			<span style="font-family:arial,helvetica,sans-serif;">Der USB-Treiber direkt Sync erfordert die Erstkonfiguration der Android-USB-Treiber für Windows, wenn sie nicht bereits auf Ihrem PC installiert.</span></p>
+			<span style="font-family:arial,helvetica,sans-serif;">Der USB-Treiber direkt Sync erfordert die Erstkonfiguration der Android-USB-Treiber fÃ¼r Windows, wenn sie nicht bereits auf Ihrem PC installiert.</span></p>
 		<p>
-			<span style="font-family: arial, helvetica, sans-serif; ">Die USB-Treiber für Windows sind spezifisch für jede Android Gerätehersteller. Das sind kostenlos erhältlich von den Herstellern Websites. Ihrem Computer werden möglicherweise schon die Treiber installiert, wenn Sie eine Synchronisierung, Sicherung oder ähnliche Software, die auf Ihr Gerät wird über USB angeschlossen installiert.</span></p>
+			<span style="font-family: arial, helvetica, sans-serif; ">Die USB-Treiber fÃ¼r Windows sind spezifisch fÃ¼r jede Android GerÃ¤tehersteller. Das sind kostenlos erhÃ¤ltlich von den Herstellern Websites. Ihrem Computer werden mÃ¶glicherweise schon die Treiber installiert, wenn Sie eine Synchronisierung, Sicherung oder Ã¤hnliche Software, die auf Ihr GerÃ¤t wird Ã¼ber USB angeschlossen installiert.</span></p>
 		<p>
 			<span style="font-family: arial, helvetica, sans-serif; ">Android-USB-Treiber sind auch als ADB (Android Debug Bridge) bekannt. Sie stehen als kostenloser Download von der Hersteller (OEMs).</span></p>
 		<div>
 			<hr />
 		</div>
 		<div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Das Android Gerät muss das USB-Debugging-Modus, bevor USB-Treiber Installazion aktiviert:</span></strong><strong><span style="font-family:arial,helvetica,sans-serif;"></span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Das Android GerÃ¤t muss das USB-Debugging-Modus, bevor USB-Treiber Installazion aktiviert:</span></strong><strong><span style="font-family:arial,helvetica,sans-serif;"></span></strong></div>
 		<div>
 			&nbsp;</div>
 		<div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Am Android 1.x auf 3.x Geräte gehen Sie zu Einstellungen > Anwendungen > Entwicklung > USB-Debugging aktivieren</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Am Android 1.x auf 3.x GerÃ¤te gehen Sie zu Einstellungen > Anwendungen > Entwicklung > USB-Debugging aktivieren</span></strong></div>
 		<div>
 			&nbsp;</div>
 		<div>
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Am Android 4.0 unt 4.1 Geräte gehen Sie zu Systemeinstellungen > Entwickleroptionen > USB-Debugging aktivieren</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Am Android 4.0 unt 4.1 GerÃ¤te gehen Sie zu Systemeinstellungen > Entwickleroptionen > USB-Debugging aktivieren</span></strong></div>
 <div>
 &nbsp;</div>
 
-			<strong><span style="font-family:arial,helvetica,sans-serif;">Am Android 4.2 und neuere Geräte gehen Sie zu Systemeinstellungen > General (Mehr) > Entwickleroptionen > USB-Debugging aktivieren</span></strong></div>
+			<strong><span style="font-family:arial,helvetica,sans-serif;">Am Android 4.2 und neuere GerÃ¤te gehen Sie zu Systemeinstellungen > General (Mehr) > Entwickleroptionen > USB-Debugging aktivieren</span></strong></div>
 		<div>
 			&nbsp;</div>
 
 		<div>
 		<div>
 
-				<span style="font-family:arial,helvetica,sans-serif;"><i><strong>NOTE: Am Android 4.2 und neuere Geräte (i.e Samsung Galaxy Note 3 and S4), müssen Sie möglicherweise Entwickleroptionen freizuschalten, bevor es im Menü ist verfügbar:
+				<span style="font-family:arial,helvetica,sans-serif;"><i><strong>NOTE: Am Android 4.2 und neuere GerÃ¤te (i.e Samsung Galaxy Note 3 and S4), mÃ¼ssen Sie mÃ¶glicherweise Entwickleroptionen freizuschalten, bevor es im MenÃ¼ ist verfÃ¼gbar:
 		</div>
 
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;"><i> - Drücken Sie  &quot;Systemeinstellungen&quot;</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - DrÃ¼cken Sie  &quot;Systemeinstellungen&quot;</i></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;"><i> - Drücken Sie  &quot;Über das Gerät&quot;</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - DrÃ¼cken Sie  &quot;Ãœber das GerÃ¤t&quot;</i></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;"><i> - Drücken Sie die Taste &quot;Build Nummer&quot; 7 mal</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;"><i> - DrÃ¼cken Sie die Taste &quot;Build Nummer&quot; 7 mal</i></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;">Entwickler-Modus sollte nun freigeschaltet und verfügbar in den Systemeinstellungen &gt; General (Mehr) &gt; Entwickleroptionen</i></div>
+			<span style="font-family:arial,helvetica,sans-serif;">Entwickler-Modus sollte nun freigeschaltet und verfÃ¼gbar in den Systemeinstellungen &gt; General (Mehr) &gt; Entwickleroptionen</i></div>
 			</strong></i><hr />
 		</div>
 		<div>
@@ -81,7 +81,7 @@ _v1.4.6.0.exe" style="font-family: arial, helvetica, sans-serif; ">Samsung USB D
 
 -serif; ">ort/downloads</a></div>
 		<div>
-			<span style="font-family: arial, helvetica, sans-serif; ">Samsung Kies enthält die USB-Treiber:</span><span style="font-family:arial,helvetica,sans-serif;">&nbsp;<a href="http://www.samsung.com/us/kies/" target="_blank">http://www.samsung.com/us/kies/</a></span></div>
+			<span style="font-family: arial, helvetica, sans-serif; ">Samsung Kies enthÃ¤lt die USB-Treiber:</span><span style="font-family:arial,helvetica,sans-serif;">&nbsp;<a href="http://www.samsung.com/us/kies/" target="_blank">http://www.samsung.com/us/kies/</a></span></div>
 		<div>
 			&nbsp;</div>
 		<div>
@@ -99,7 +99,7 @@ Charging-Drivers" target="_blank">http://www.motorola.com/Support/US-EN/Support-
 
 serif;">HTC</span></strong></div>
 		<div>
-			<span style="font-family:arial,helvetica,sans-serif;">HTC Sync-Software enthält die USB-Treiber:&nbsp;<a href="http://www.htc.com/www/help/" target="_blank">http://www.htc.com/www/help/</a></span></div>
+			<span style="font-family:arial,helvetica,sans-serif;">HTC Sync-Software enthÃ¤lt die USB-Treiber:&nbsp;<a href="http://www.htc.com/www/help/" target="_blank">http://www.htc.com/www/help/</a></span></div>
 		<div>
 			&nbsp;</div>
 		<div>
@@ -117,7 +117,7 @@ serif;" target="_blank">http://developer.sonyericsson.com/wportal/devworld/searc
 
 serif;">Sony PC Companion</a></span> <span style="font-family:arial,helvetica,sans-
 
-serif;">- enthält die USB-Treiber:</span></div>
+serif;">- enthÃ¤lt die USB-Treiber:</span></div>
 		<div>
 
 			&nbsp;</div>
@@ -134,7 +134,7 @@ serif;">LG</span></strong></div>
 		<div>
 			<span style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus:&nbsp;</span><a href="http://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=US&CttFileID=4884047&CDCttType=SW&ModelType=C&ModelName=SCH-I515MSAVZW&VPath=SW/201112/20111213223536733/Verizon_Wireless_I515_Galaxy_Nexus_USB_Driver_v1.4.6.0.exe" style="font-family: arial, helvetica, sans-serif; ">Galaxy Nexus USB Driver</a><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></div>
 		<div>
-			<span style="font-family: arial, helvetica, sans-serif; ">Wenn Ihr Gerät ist eines der Android Developer Handys (bezogen von der Google-Play-Publisher-Site), ein Nexus One oder ein Nexus S, dann müssen Sie das </span><a href="http://developer.android.com/sdk/win-usb.html"  target="_blank" style="font-family: arial, helvetica, 
+			<span style="font-family: arial, helvetica, sans-serif; ">Wenn Ihr GerÃ¤t ist eines der Android Developer Handys (bezogen von der Google-Play-Publisher-Site), ein Nexus One oder ein Nexus S, dann mÃ¼ssen Sie das </span><a href="http://developer.android.com/sdk/win-usb.html"  target="_blank" style="font-family: arial, helvetica, 
 
 sans-serif; ">Google-USB Treiber</a><span style="font-family: arial, helvetica, sans-serif; ">, anstelle eines OEM-Treiber. Die Galaxy Nexus-Treiber, jedoch wird von </span><a href="http://www.samsung.com/us/support/downloads/verizon-wireless/SCH-
 
@@ -199,7 +199,7 @@ method=viewResourceDetail&amp;resourceId=16&amp;type=5" target="_blank">http://a
 			<div>
 				<strong><span style="font-family:arial,helvetica,sans-serif;">KT Tech </span></strong></div>
 			<div>
-				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.kttech.co.kr/cscenter/download05.asp" target="_blank">http://www.kttech.co.kr/cscenter/downlo ad05.asp</a> für EV-S100 (Take)</span></div>
+				<span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.kttech.co.kr/cscenter/download05.asp" target="_blank">http://www.kttech.co.kr/cscenter/downlo ad05.asp</a> fÃ¼r EV-S100 (Take)</span></div>
 			<div>
 				<strong><span style="font-family:arial,helvetica,sans-serif;">Kyocera </span></strong></div>
 			<div>
@@ -263,6 +263,6 @@ serif;">http://support.zte.com.cn/support/news/NewsDetail.aspx?newsId=1000442</s
 		<p style="text-align: center; ">
 			<span style="font-family:arial,helvetica,sans-serif;"><a href="index_de.shtml">home</a> | <a href="download_de.shtml">download</a> | USB-Treiber | <a href="help_de.shtml">hilfe</a>&nbsp;| <a href="mailto:support@journal-notes.com">kontakt</a></span></p>
 		<p style="text-align: left; ">
-			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Nutzungsbedingungen</a> © 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
+			<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:8px;"><span><a href="../terms.html">Nutzungsbedingungen</a> Â© 2012 - 2015 <a href="http://wizard-solutions.blogspot.ca/"  target="_new">Wizard Solutions Inc.</a></span></span></span></p>
 	</body>
 </html>

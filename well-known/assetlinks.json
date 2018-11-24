@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.intoronto.www.cbti",
+    "sha256_cert_fingerprints":
+    ["9F:49:33:27:47:06:26:8C:4C:A1:C0:6A:EE:B9:7A:28:92:F5:7E:3E:98:AE:15:BD:74:11:08:34:D9:0D:04:5E"]
+  }
+}]
